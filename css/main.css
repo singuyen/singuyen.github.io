@@ -424,3 +424,7 @@ a(href="#") {
   margin: 20px 0;
   display: block;
 }
+
+.resume i {
+  font-size: 2.0em;
+}
